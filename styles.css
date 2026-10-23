@@ -1,0 +1,72 @@
+h3.open {
+    color: #20483F;
+    background-color: transparent;
+}
+h3.closed {
+    color: rgba(209, 10, 10, 0.872);
+    background-color: transparent;
+}
+
+button.open {
+    text-decoration: solid;
+    border: black;
+    border-width: 4px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    background-color: #20483F;
+    color: white;
+    font-size: 12px;
+}
+
+button.closed {
+    text-decoration: solid;
+    border: black;
+    border-width: 4px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    background-color: rgba(209, 10, 10, 0.872);
+    color: white;
+    font-size: 12px;
+}
+
+.sold-out {
+    color: #9ca3af;
+    text-decoration: line-through;
+}
+
+.sold-button {
+    border: black solid 1px;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 12px;
+    margin-left: 10px;
+    background-color: #C85D38;
+    color: white;
+    font-size: 14px;
+}
+
+.row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.empty {
+    color: gray;
+    font-style: italic;
+}
+
+.remove-button {
+    border: black solid 1px;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 12px;
+    margin-left: 10px;
+    background-color: rgba(209, 10, 10, 0.872);
+    color: white;
+    font-size: 14px;
+}
+
+
+
